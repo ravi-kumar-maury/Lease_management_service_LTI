@@ -1,0 +1,3 @@
+Company Code,Master Agreement,Item,Vendor,Agreement Date,Plant,Target Value,Currency,Validity Start Date,Validity End Date,Material,Short Text,Material Group,Target Qty,Unit,Net Price,Lease Asset Type,Buy Back,Lease Type,Penalty Clause,Created on,Created By,Changed On,Changed By
+LEAS,4600000129,10,12,12.09.2019,abcd,123,INR,12.09.2019,12.09.2019,124567,Desc,asdfa,1,12,12,L1,false,FN,a,01.04.2019,Ab,12.10.2019,12.10.2019
+LEAS,4600000129,20,,,,,,,,,,,,,,L1,true,FN,,01.04.2019,Ab,12.10.2019,12.10.2019

@@ -1,0 +1,17 @@
+busiEVEID,busDESC,CREATEDAT,CREATEDBY,MODIFIEDAT,MODIFIEDBY
+1000,Capitalization,17.07.2018,LTI,17.07.2018,LTI
+1010,Agreement Extension or Modification,17.07.2018,LTI,17.07.2018,LTI
+1100,Retirement with RV > MP,17.07.2018,LTI,27.12.2018,720849
+1110,Retirement with RV = or < MP,27.12.2018,LTI,27.12.2018,LTI
+1200,Lease Termination,17.07.2018,LTI,17.07.2018,LTI
+1300,Retirement of lease asset with Buyback option,27.12.2018,LTI,27.12.2018,LTI
+1400,Sub-Leasing of RoU Assets,29.05.2019,LTI,29.05.2019,10619968
+2000,Interest,17.07.2018,LTI,17.07.2018,LTI
+2100,Reverse Interest,17.07.2018,LTI,17.07.2018,LTI
+3000,Amortization,17.07.2018,LTI,17.07.2018,LTI
+3100,Reverse Amortization,17.07.2018,LTI,17.07.2018,LTI
+4000,Accural/Deferral,17.07.2018,LTI,17.07.2018,LTI
+4100,Reverse Accural/Deferral,17.07.2018,LTI,17.07.2018,LTI
+5000,Invocing of Leased Assets,29.05.2019,LTI,29.05.2019,10619968
+6000,General Overheads not capitalised,17.12.2018,LTI,17.12.2018,LTI
+9000,Transition to IFRS 16 for Ongoing Lease Agreements,03.01.2019,LTI,03.01.2019,LTI

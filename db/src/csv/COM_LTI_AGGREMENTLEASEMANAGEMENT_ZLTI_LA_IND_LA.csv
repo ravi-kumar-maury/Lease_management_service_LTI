@@ -1,0 +1,4 @@
+Company Code,Agreement Number,Order Type,Agreement Date,Asset Number,Asset Sub-number,Plant,Asset Description,Quantity,Unit of Measure,Vendor,Cost Center,Order,WBS Element,Profit Center,Migration Indicator,Retirement Indicator,Sub-Leased,Created on,Created By,Changed on,Changed by
+LEAS,6000000356,ZLA,01-01-2018,A,0,ABCD,DESc,1,EA,100220,AA,123,122,BB,X,X,X,24-07-2019,10619968,24-07-2019,10619968
+LEAS,6000000357,ZLA,01-01-2018,A,0,ABCD,DESc,1,EA,100220,AA,123,122,BB,X,,,24-07-2019,10619968,24-07-2019,10619968
+LEAS,6000000358,ZLA,25-07-2019,A,0,ABCD,DESc,1,EA,100220,AA,123,122,BB,,X,X,25-07-2019,10619968,25-07-2019,10619968
